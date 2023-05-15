@@ -1,5 +1,5 @@
 # kuyruk_yapisi
-Bu proje kuyruğun(queue) bağlı liste yapısını ve bu yapıda yapabileceğimiz işlemleri içeren bir C kodudur.
+Bu proje kuyruğun (queue) bağlı liste yapısını ve bu yapıda yapabileceğimiz işlemleri içeren bir C kodudur.
 
 Bağlı listeyi oluşuturan "dugum" yapısı içindeki "veri" değişkeni, o değişkene atanan tamsayıyı ifade eder. "sonraki"
 işaretçisi ise kendinden sonra gelen düğümün adresini tutar. Kuyruğu oluşturacak olan "ilk" ve "son" düğüm tanımlanır ve
